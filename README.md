@@ -6,5 +6,13 @@
 -  Logistic Regression
 -  kNN Classifier
 
-### 2. Project based on building image recognition.
-![model](https://ibb.co/1LmBWj9/model.jpg)
+### 2. Project based on building image recognition using CNN
+
+Model summary:
+
+<img src="https://i.ibb.co/yXQKj78/model.jpg" width=50% height=50%>
+
+Training and validation loss:
+
+<img src="https://i.ibb.co/MgjSVqY/loss.jpg" width=50% height=50%>
+
