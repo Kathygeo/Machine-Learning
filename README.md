@@ -7,5 +7,4 @@
 -  kNN Classifier
 
 ### 2. Project based on building image recognition.
-![Model summary](https://prnt.sc/106ij85)
 
